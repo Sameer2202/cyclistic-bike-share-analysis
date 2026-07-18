@@ -188,6 +188,7 @@ cyclistic-bike-share-analysis/
 │
 ├── Cyclistic_Conversion_Strategy.pdf
 │
+|── requirements.txt
 ├── README.md
 ├── requirements.txt
 └── LICENSE

@@ -218,7 +218,14 @@ cyclistic-bike-share-analysis/
 - Business Recommendations
 
 ---
+## 🎓 Certification
 
+This project was completed as the capstone case study for the **Google Data Analytics Professional Certificate** (Coursera).
+
+- 📜 [Verify Certificate](https://coursera.org/verify/professional-cert/UMYBL7872HSX)
+- 🏅 [View Digital Badge (Credly)](https://www.credly.com/earner/earned/badge/16b1b9bd-0de7-4b9b-9b8e-68cd8a160f33)
+
+---
 # 👨‍💻 Author
 
 **Sameer Sunil Thite**

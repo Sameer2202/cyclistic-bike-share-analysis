@@ -184,15 +184,9 @@ The following statistical techniques were applied:
 ```
 cyclistic-bike-share-analysis/
 │
-├── data/
-│   ├── raw/                 # Download dataset from the official source
-│   ├── cleaned/
-│   └── processed/
+├── Cyclistic_Bike_Share_Analysis.ipynb
 │
-├── notebooks/
-│   └── Cyclistic_Bike_Share_Analysis.ipynb
-│
-├── presentation/
+├── Cyclistic_Conversion_Strategy.pdf
 │
 ├── README.md
 ├── requirements.txt
